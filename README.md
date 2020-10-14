@@ -4,7 +4,7 @@
 
 ## A complete and minimal react-router-redux example
 
-- latest version of react, redux, reselect and react-router
+- react, redux, reselect and react-router
 - hot reloading with webpack dev server
 - Universal/ Isomorphic server rendering
 - css modules and cssnext
